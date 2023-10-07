@@ -1,4 +1,4 @@
-## One rule of this community:
+## One rule of this peaceful place we call our community:
 
 We don't care if you break things. This is a playground, and we encourage failing often. Use this as a practice ground, and enjoy contributing to projects you create with your fellow students. Many students have gained real-world experience "working in teams" by working on these projects.
 
@@ -13,7 +13,9 @@ We don't care if you break things. This is a playground, and we encourage failin
 3. Clone _your forked repository_ to your computer:
 
    ![code ui](https://docs.github.com/assets/images/help/repository/code-button.png)
-
+    
+   *Make sure to download git for windows since github is native to linex and cmd line doesnt really work for it.
+   
    For example, run this command inside your terminal:
 
    ```bash
